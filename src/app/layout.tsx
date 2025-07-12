@@ -36,11 +36,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Financial Conduct Authority",
     description: "Understand the primary goals of the Financial Conduct Authority, illustrated through a clear and concise diagram.",
-    url: "https://fcaroadmap.netlify.app/",
+    url: "https://scintillating-daffodil-99223b.netlify.app/",
     type: "website",
     images: [
       {
-        url: "https://fcaroadmap.netlify.app/og.png",
+        url: "https://scintillating-daffodil-99223b.netlify.app/og.png",
         type: "image/png",
         width: 1200,
         height: 630,
